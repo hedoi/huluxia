@@ -1,0 +1,25 @@
+[{
+  "url": "https://floor.huluxia.com/user/signin/IOS/1.1",
+  "headers": {
+      "Host": "floor.huluxia.com",
+      "Content-Type": "application/x-www-form-urlencoded",
+      "Cookie": "UM_distinctid=174e18c102c649-0d60ca8a465d43-754c1551-4a640-174e18c102d919",
+      "Connection": "keep-alive",
+      "Accept": "*/*",
+      "User-Agent": "Floor/1.2.2 (iPhone; iOS 14.2; Scale/3.00)",
+      "Accept-Language": "zh-Hans-CN;q=1",
+      "Content-Length": "241",
+      "Accept-Encoding": "gzip, deflate, br"
+  },
+  "data": {
+      "_key": "766A3E3B3BDA356AC733A85152339E4D958BC938C425725775558283289EE70B404CFA0FD0368E912855C38E65C129D44FE44E87826BA852",
+      "app_version": "1.2.2",
+      "device_code": "BC1B6ED6CB0143618BB2B8290087F6B5",
+      "market_id": "floor_huluxia",
+      "platform": "1",
+      "user_id": "5216307"
+  },
+  "cat_id": {
+    "cat_id": 1
+  }
+}]
